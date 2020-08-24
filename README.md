@@ -3,7 +3,7 @@ Gosto muito de tecnologia e atualmente estudo programação. :computer:
 
 #### Aqui vai algumas coisas sobre mim:
 
-- 🎓 Formado em Automação Industrial
+- 🎓 Formado em Automação Industrial - FATEC Catanduva
 - 😄 Buscando colaborar com projetos em Front-end/Back-end
 - 💬 Curto tecnologias, games (moba) e seriados no Netflix
 - 📫 Contato:
