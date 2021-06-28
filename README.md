@@ -12,5 +12,5 @@ Gosto muito de tecnologia e atualmente estudo programação. :computer:
 
 #### Meus Repositorios
 
-<div>Confira aqui todos os meus repositorios: <a href="https://jhonathannc.github.io/myrepos/">Aplicativo MyRepos</a></div>
+<div>Confira aqui todos os meus repositorios: <a href="https://jhonathannc.github.io/myrepos/">MyRepos</a></div>
 Basta apenas digitar meu id (jhonathannc) e minha aplicação listará para você todos meus repositórios publicos.
