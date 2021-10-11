@@ -1,5 +1,5 @@
-## Olá pessoal 👋
-Gosto muito de tecnologia e atualmente estudo programação. :computer:
+## Hi there 🖖🏾
+[![Jhonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhonathannc)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Aqui vai algumas coisas sobre mim:
 
