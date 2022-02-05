@@ -1,7 +1,7 @@
 ## Hi there 🖖🏾
 ![Jhonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhonathannc&show_icons=true&theme=tokyonight)
 
-#### Aqui vai algumas coisas sobre mim:
+#### Here are somethings about me:
 
 - 🎓 Graduated in Industrial Automation - FATEC Catanduva
 - 😄 Seeking to improve myself with laravel and always testing other backend stacks.
