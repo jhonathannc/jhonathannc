@@ -5,7 +5,7 @@
 
 - 🎓 Graduated in Industrial Automation - FATEC Catanduva
 - 😄 Seeking to improve myself with laravel and always testing other backend stacks.
-- 💬 I like technologies, games (moba) and series on Netflix.
+- 💬 I like technologies, games (rpg), TV series.
 - 📫 You can find me in:
 [![Outlook_Badge](https://img.shields.io/badge/-Outlook-blue?style=Mail&logo=microsoft-outlook)](mailto:jhonathannc@live.com) 
 [![Linkedin_Badge](https://img.shields.io/badge/-LinkedIn-blue?style=Mail&logo=linkedin)](https://www.linkedin.com/in/jhonathannc)
