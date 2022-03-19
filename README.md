@@ -3,8 +3,8 @@
 #### Here are somethings about me:
 
 - 🎓 Graduated in Industrial Automation at FATEC Catanduva
-- 🧑🏽‍💻 Goals: Improve myself with Laravel and your ecosystem. Sometimes testing other backend stacks, tools and others.
-- 🌎 Sometimes i develop something from iot.
+- 💻 Goals: Improve myself with Laravel and your ecosystem. Sometimes testing other backend stacks, tools and others.
+- ⚡ Hobbies: Workout and sometimes i develop something from iot.
 
 #### You can find me in:
 [![Outlook_Badge](https://img.shields.io/badge/-Outlook-blue?style=Mail&logo=microsoft-outlook)](mailto:jhonathannc@live.com) 
