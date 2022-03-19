@@ -2,7 +2,7 @@
 
 #### Here are somethings about me:
 
-- 🎓 Graduated in Industrial Automation - FATEC Catanduva
+- 🎓 Graduated in Industrial Automation at FATEC Catanduva
 - 🧑🏽‍💻 Goals: Improve myself with Laravel and your ecosystem. Sometimes testing other backend stacks, tools and others.
 - 🌎 Sometimes i develop something from iot.
 
