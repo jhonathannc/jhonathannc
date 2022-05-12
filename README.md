@@ -1,5 +1,3 @@
-<img align="left" width="150" height="150" alt="Dani Akash" src="https://i.ibb.co/cFdBRXY/oie-transparent.png"/>
-
 ## Hi there! I'm Jhonathan Candeu 🖖🏾
 
 A developer from Brazil. I currently develop for [Bebidas Online][bon-website], an startup for drinks delivery. I do like build applications at the backend and discuss about new applications and ideias. In my free time, i workout and sometimes build something from iot. You can reach me below if you'd like to talk. See ya! 
