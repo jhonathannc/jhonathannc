@@ -1,6 +1,6 @@
 ## Hi there! I'm Jhonathan Candeu 🖖🏾
 
-A developer from Brazil. I currently develop for [Acqua Vero][acqua-website], a company on finance sector about investiments. I do like build applications at the backend and discuss about new applications and ideias. In my free time, i workout and sometimes build something with IoT. If you'd like to talk, you can reach me on [LinkedIn][linkedin] or [email][mail]. See ya!
+A developer from Brazil. I currently develop for [Acqua Vero][acqua-github], a company on finance sector about investiments and courses. I do like to build applications at the backend and discuss about new applications and ideias. In my free time, i workout and sometimes build something with IoT. If you'd like contact me, you can reach me on [LinkedIn][linkedin] or [email][mail]. See ya!
 
 <br />
 
@@ -11,6 +11,6 @@ A developer from Brazil. I currently develop for [Acqua Vero][acqua-website], a 
   </a>
 <div>
 
-[acqua-website]: https://acquavero.com.br/
+[acqua-github]: https://github.com/acqua-vero
 [linkedin]: https://www.linkedin.com/in/jhonathannc
 [mail]: mailto:jhonathannc@live.com
