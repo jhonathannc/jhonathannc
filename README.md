@@ -6,8 +6,8 @@ A developer from Brazil. I currently develop for [Acqua Vero][acqua-github], a c
 
 <div>
   <a href="https://github.com/jhonathannc">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jhonathannc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonathannc&layout=compact&langs_count=16&theme=dracula"/>
+    <img height="180em" src="https://readme-stats.clckblog.space/api?username=jhonathannc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://readme-stats.clckblog.space/api/top-langs/?username=jhonathannc&layout=compact&langs_count=16&theme=dracula"/>
   </a>
 <div>
 
