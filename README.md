@@ -4,6 +4,14 @@ A developer from Brazil. I currently develop for [Acqua Vero][acqua-github], a c
 
 <br />
 
+Back-end: Laravel | PHP | Node.js | NestJs | Adonis JS | Express.<br />
+Front-end: Javascript/TS | React | Angular | Vue.js | HTML | CSS | Bootstrap.<br />
+Mobile: Ionic | React Native.<br />
+Database: MySQL | SQLite | PostgreSQL | Redis.<br />
+DevOps: GIT | CI&CD | Docker\Compose | DigitalOcean | AWS | GitHub/Actions.<br />
+
+<br />
+
 <div>
   <a href="https://github.com/jhonathannc">
     <img height="180em" src="https://readme-stats.clckblog.space/api?username=jhonathannc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
