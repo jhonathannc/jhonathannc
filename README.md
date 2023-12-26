@@ -1,14 +1,13 @@
 ## Hi there! I'm Jhonathan Candeu 🖖🏾
 
-A developer from Brazil. I currently develop for [Acqua Vero][acqua-github], a company on finance sector about investiments and courses. I do like to build applications at the backend and discuss about new applications and ideias. In my free time, i workout and sometimes build something with IoT. If you'd like contact me, you can reach me on [LinkedIn][linkedin] or [email][mail]. See ya!
+Destaco-me pela resiliência, habilidades de comunicação e trabalho em equipe, além de uma sólida experiência na construção e manutenção de sistemas. Minha especialização abrange o desenvolvimento web e mobile, envolvendo atividades como code reviews, lançamento de features e administração de servidores em ambientes de produção. Possuo habilidades e capacidade de oferecer soluções eficientes e superar desafios com sucesso If you'd like contact me, you can reach me on [LinkedIn][linkedin] or [email][mail]. See ya!
 
 <br />
 
-Back-end: Laravel | PHP | Node.js | NestJs | Adonis JS | Express.<br />
-Front-end: Javascript/TS | React | Angular | Vue.js | HTML | CSS | Bootstrap.<br />
-Mobile: Ionic | React Native.<br />
-Database: MySQL | SQLite | PostgreSQL | Redis.<br />
-DevOps: GIT | CI&CD | Docker\Compose | DigitalOcean | AWS | GitHub/Actions.<br />
+Frontend: Javascript/TS | React | Angular | Vue.js | HTML | CSS | Bootstrap | Jquery. <br>
+Backend: Laravel | PHP | Node.js | NestJs | AdonisJS | Express. <br>
+Database: MySQL | SQLite | PostgreSQL | Redis | MongoDB. <br>
+DevOPS: GIT | CI&CD | Docker\Compose | DigitalOcean | AWS | GitHub/Actions | Linux. <br>
 
 <br />
 
