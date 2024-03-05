@@ -11,9 +11,9 @@ DevOPS: GIT | CI&CD | Docker\Compose | DigitalOcean | AWS | GitHub/Actions | Lin
 
 
 ## Contact
-* ✉️ [jhonathannc@live.com][mail]
+* ✉️ [jhonathannc@gmail.com][mail]
 * 🌐 [Linkedin][linkedin]
 
 
 [linkedin]: https://www.linkedin.com/in/jhonathannc
-[mail]: mailto:jhonathannc@live.com
+[mail]: mailto:jhonathannc@gmail.com
