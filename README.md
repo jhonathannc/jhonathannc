@@ -1,7 +1,7 @@
 # Hi there! I'm Jhonathan Candeu 🖖🏾
 
 * 🌍 I'm based in Brazil
-* 💻 Developer about 5 year
+* 💻 Developer about 6 year
 
 ## Fullstack Developer
 Frontend: Javascript/TS | React | Angular | Vue.js | HTML | CSS | Bootstrap | Jquery. <br>
@@ -11,9 +11,6 @@ DevOPS: GIT | CI&CD | Docker\Compose | DigitalOcean | AWS | GitHub/Actions | Lin
 
 
 ## Contact
-* ✉️ [jhonathannc@gmail.com][mail]
 * 🌐 [Linkedin][linkedin]
 
-
 [linkedin]: https://www.linkedin.com/in/jhonathannc
-[mail]: mailto:jhonathannc@gmail.com
